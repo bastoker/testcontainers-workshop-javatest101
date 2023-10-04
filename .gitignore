@@ -13,6 +13,7 @@
 .idea/
 target/
 .DS_Store
+playwright-reports/
 
 # Package Files #
 *.jar
