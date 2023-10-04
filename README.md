@@ -15,3 +15,5 @@ Playwright is de browser-automation library van Microsoft die we gebruiken om me
 Voordat we testen kunnen draaien en toevoegen aan het project moeten we de code eerst compileren (bouwen).
 Bij voorkeur doen we dit met [IntelliJ](https://www.jetbrains.com/idea/download/) of [VS Code met de Java Plugin](https://code.visualstudio.com/docs/languages/java#_install-visual-studio-code-for-java)
 
+Als je je IDE hebt opgestart kan je de test openen in 
+``src/test/nl/salves/testcontainers/JavaTest101.java``
